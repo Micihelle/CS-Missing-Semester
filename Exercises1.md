@@ -166,3 +166,6 @@ mode of 'semester' changed from 0664 (rw-rw-r--) to 0775 (rwxrwxr-x)
 - 执行脚本文件的多种方式
 [https://blog.csdn.net/qq_37699336/article/details/80724700]
 - 关于Sh中的操作符> Connecting programs
+
+## Summary
+后续思路：关于`sysfs`文件系统与硬件驱动问题 >> 嵌入式开发技术主题
