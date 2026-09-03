@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS=-Wall -g 
 
 # define the target program
-TARGETS = ex1 test
+TARGETS = ex1 ex3 ex4 ex5 ex6 printf-test test
 
 
 # default target 
